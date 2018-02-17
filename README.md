@@ -5,4 +5,4 @@ A dark steel, red and blue syntax scheme for vim and neovim. Optimized for 256-c
 Includes carrier.vim, a theme for airline. A fork of silver.vim from vim-airline-themes.
 
 
-<img src='https://imgur.com/hF7azAF' alt='alt' />
+<img src='https://i.imgur.com/hF7azAF.png' alt='alt' />
