@@ -22,7 +22,7 @@ hi LineNr ctermfg=250 ctermbg=236 gui=NONE cterm=bold term=NONE
 hi Statement ctermfg=7 ctermbg=236 cterm=bold term=bold
 hi PreProc ctermfg=7 ctermbg=236 cterm=bold term=bold
 hi String ctermfg=167 ctermbg=236 cterm=bold term=bold
-hi Operator ctermfg=232 ctermbg=236 cterm=NONE
+hi Operator ctermfg=168 ctermbg=236 cterm=NONE
 hi Conditional ctermfg=63 ctermbg=236 cterm=NONE
 hi Keyword ctermfg=20 ctermbg=236 cterm=bold
 hi Character ctermfg=77 ctermbg=236 cterm=NONE
